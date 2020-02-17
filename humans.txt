@@ -2,9 +2,9 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
-    <name> -- <role> -- <twitter>
-
+      
+    <name> --            <role>      -- <twitter>
+        Jouni Nieminen      Training      dont have one
 # THANKS
 
     <name>
