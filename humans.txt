@@ -1,8 +1,8 @@
-# humanstxt.org/
+  # humanstxt.org/
 # The humans responsible & technology colophon
 
 # TEAM
-      
+
     <name> --            <role>      -- <twitter>
         Jouni Nieminen      Training      dont have one
 # THANKS
