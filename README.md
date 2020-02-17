@@ -17,6 +17,11 @@ This is simple web project, Deployment can be on any web server on
 
 ## How to Contribute
 
+<<<<<<< HEAD
 Pleas for this repository and then issue Pull requests for review
 
 ### Copyright
+=======
+
+2020 copyright Git training.
+>>>>>>> simple-change
