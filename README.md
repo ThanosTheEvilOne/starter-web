@@ -9,6 +9,10 @@ This example is showwing how different parts of git
 
 ## Purpose
 
+AS stated above, the main purpose is to provide simple examples for git training demos.
+
 ## Deployment
+
+This is simple web project, Deployment can be on any web server on
 
 ## How to Contibute
