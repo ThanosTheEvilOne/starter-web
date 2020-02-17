@@ -15,4 +15,8 @@ AS stated above, the main purpose is to provide simple examples for git training
 
 This is simple web project, Deployment can be on any web server on
 
-## How to Contibute
+## How to Contribute
+
+Pleas for this repository and then issue Pull requests for review
+
+### Copyright
