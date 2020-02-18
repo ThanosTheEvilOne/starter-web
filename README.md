@@ -1,7 +1,7 @@
 # Starter Web Project
 
 This is simple test and show how git works!
-
+Adding line
 ## Introduction
 
 This example is showwing how different parts of git
