@@ -6,7 +6,7 @@ Adding oneline, then more changes from myfeature branch.
 
 
 ## Introduction
-  
+
 This example is showwing how different parts of git
  repository and various commands using a web projects works
 
@@ -26,5 +26,5 @@ Pleas for this repository and then issue Pull requests for review
 ### Copyright
 =======
 
-2020 copyright Git training.
+2020 Git training.All rights reserved.
 >>>>>>> simple-change
