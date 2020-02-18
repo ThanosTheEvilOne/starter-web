@@ -7,8 +7,8 @@
         Jouni Nieminen      Training      dont have one
 # THANKS
 
-    Thx Valmet
-
+    Thx Valmet for having me.
+    Adding some text.
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
