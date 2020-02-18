@@ -3,7 +3,7 @@
 This is simple test and show how git works!
 Adding oneline, then more changes from myfeature branch.
 Updating for emergency fix after stashing.
-
+Making changes for multiple stash example.
 
 ## Introduction
 
