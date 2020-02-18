@@ -1,7 +1,10 @@
 # Starter Web Project
 
 This is simple test and show how git works!
-Adding line
+Adding oneline, then more changes from myfeature branch.
+
+
+
 ## Introduction
 
 This example is showwing how different parts of git
