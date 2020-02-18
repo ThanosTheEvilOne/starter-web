@@ -7,7 +7,7 @@
         Jouni Nieminen      Training      dont have one
 # THANKS
 
-    <name>
+    Thx Valmet
 
 # TECHNOLOGY COLOPHON
 
